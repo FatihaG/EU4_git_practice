@@ -7,6 +7,8 @@ public class helloTest {
         System.out.println("forgot to change");
         //degisim
         // daha fazla
+        //cok daha fazla
+
 
     }
 }
